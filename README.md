@@ -1,6 +1,6 @@
 # UTN-TUPaDProgramacion-1
 
-## TP Integrador - Programación I
+# TP Integrador - Programación I
 
 # Descripción
 

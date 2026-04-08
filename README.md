@@ -1,8 +1,8 @@
-# UTN-TUPaDProgramacion1
+# UTN-TUPaDProgramacion-1
 
-# TP Integrador - Programación I
+## TP Integrador - Programación I
 
-## Descripción
+# Descripción
 
 Trabajo práctico donde se aplican estructuras básicas de programación:
 
@@ -10,10 +10,10 @@ Trabajo práctico donde se aplican estructuras básicas de programación:
 - Condicionales: toma de decisiones (if/elif/else).
 - Repetitivas: uso de bucles (while/for).
 
-## Tecnologías
+# Tecnologías
 
 Lenguaje: Python
 
-## Conclusión
+# Conclusión
 
 Se integran los conceptos básicos para resolver los ejercicios propuestos.
